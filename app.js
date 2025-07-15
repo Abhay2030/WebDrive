@@ -1,6 +1,6 @@
 // ✅ Step 7: Firebase Configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyCmpZBES8rnq33UC7jsHLdBqE5GrEe6kp0",
+    apiKey: "            ",
     authDomain: "minidrive-ee651.firebaseapp.com",
     projectId: "minidrive-ee651",
     storageBucket: "minidrive-ee651.appspot.com",
